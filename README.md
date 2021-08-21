@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jkf2372xugsd8vc4?svg=true)](https://ci.appveyor.com/project/Strugatskaya/pattern-1-delivery)
