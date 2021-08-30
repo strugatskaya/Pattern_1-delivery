@@ -1,4 +1,4 @@
-package utils;
+package ru.netology.data;
 
 import com.github.javafaker.Faker;
 import lombok.Data;
@@ -24,6 +24,7 @@ public class DataGenerator {
         Faker faker = new Faker(new Locale(locale));
         return faker.address().city();
     }
+
 
     public static String generateName(String locale) {
         Faker faker = new Faker(new Locale(locale));
